@@ -1,0 +1,87 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-googlemaps": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-googlemaps"
+        },
+        "is_top_level": true,
+        "variables": {
+            "API_KEY_FOR_ANDROID": "AIzaSyBhi4Cz2-mTNtuQKtaQo5ZdS36ACCXuRlI"
+        }
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser@~1.7.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.phonegap.plugins.barcodescanner": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Telerik-Verified-Plugins/BarcodeScanner",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Telerik-Verified-Plugins/NativePageTransitions",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-storage": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-storage@~1.0.4"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-common": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-common@1"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "com.brodysoft.sqlitePlugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Telerik-Verified-Plugins/SQLite",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "data" : [
+        {
+            "name": "Panzero' Apulian StrEat Food",
+            "address": "Nieuwe Mark 42",
+            "zip": "3011 HH",
+            "city": "Rotterdam",
+            "website": "http://www.panzero.nl/home/",
+            "phone": "+31 10 237 8426",
+            "latitude": 51.922097,
+            "longitude": 4.488049
+        },
+        {
+            "name": "Sugo Aert van Nesstraat",
+            "address": "Aert van Nesstraat 20",
+            "zip": "3012 CA",
+            "city": "Rotterdam",
+            "website": "http://www.sugopizza.nl/",
+            "phone": "+31 10 237 4520",
+            "latitude": 51.921052,
+            "longitude": 4.477693
+        },
+        {
+            "name": "Umami by Han Rotterdam",
+            "address": "Binnenrotte 140",
+            "zip": "3011 HC",
+            "city": "Rotterdam",
+            "website": "http://umami-restaurant.com/rotterdam/",
+            "phone": "+31 10 433 3139",
+            "latitude": 51.922701,
+            "longitude": 4.486016
+        },
+        {
+            "name": "Spirit",
+            "address": "Mariniersweg 9",
+            "zip": "3011 NB",
+            "city": "Rotterdam",
+            "website": "http://www.spiritrestaurants.nl/rotterdam/",
+            "phone": "+31 10 411 6356",
+            "latitude": 51.923978,
+            "longitude": 4.488022
+        },
+        {
+            "name": "Little V",
+            "address": "Grotekerkplein 109",
+            "zip": "3011 CG",
+            "city": "Rotterdam",
+            "website": "http://littlev.nl/",
+            "phone": "+31 10 413 1191",
+            "latitude": 51.921777,
+            "longitude": 4.484595
+        },
+        {
+            "name": "Bazar",
+            "address": "Witte de Wittstraat 16",
+            "zip": "3012 BP",
+            "city": "Rotterdam",
+            "website": "http://www.hotelbazar.nl/",
+            "phone": "+31 10 206 515",
+            "latitude": 51.915911,
+            "longitude": 4.478810
+        },
+        {
+            "name": "Guliano",
+            "address": "Meent 31",
+            "zip": "3011 JC",
+            "city": "Rotterdam",
+            "website": "http://www.guliano.it/",
+            "phone": "+31 10 413 8143",
+            "latitude": 51.923629,
+            "longitude": 4.485146
+        },
+        {
+            "name": "Sugo Westblaak",
+            "address": "Meent 31",
+            "zip": "3011 JC",
+            "city": "Rotterdam",
+            "website": "http://www.guliano.it/",
+            "phone": "+31 10 413 8143",
+            "latitude": 51.923629,
+            "longitude": 4.485146
+        },
+        {
+            "name": "Pho Hanoi",
+            "address": "Botersloot 58A",
+            "zip": "3011 HJ",
+            "city": "Rotterdam",
+            "website": "http://www.phohanoi.nl/",
+            "phone": "+31 10 46 9308",
+            "latitude": 51.921883,
+            "longitude": 4.488263
+        },
+        {
+            "name": "Hotel New York",
+            "address": "Koninginnenhoofd 1",
+            "zip": "3072 AD",
+            "city": "Rotterdam",
+            "website": "http://www.hotelnewyork.nl/",
+            "phone": "+31 10 439 0500",
+            "latitude": 51.904198,
+            "longitude": 4.484588
+        }
+    ]
+}
