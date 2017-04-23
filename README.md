@@ -1,1 +1,1 @@
-# govegan
+# GoVegan App
